@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<time.h>
-
+// enter numbers from 1 to 6
 int main()
 {
 
