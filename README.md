@@ -1,1 +1,1 @@
-# hand-game
+# hand-cricket game for fun
